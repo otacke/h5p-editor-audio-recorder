@@ -22,7 +22,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "browser-env": "^2.0.30",
     "cross-env": "^4.0.0",
-    "css-loader": "^0.26.2",
+    "css-loader": "^6.8.1",
     "extract-text-webpack-plugin": "^2.0.0",
     "node-sass": "^4.11.0",
     "raw-loader": "^0.5.1",
@@ -33,7 +33,7 @@
     "style-loader": "^0.13.2",
     "timer-machine": "^1.1.0",
     "url-loader": "^1.1.2",
-    "vue-loader": "^11.2.0",
+    "vue-loader": "^15.11.1",
     "vue-template-compiler": "^2.5.21",
     "webpack": "^2.7.0"
   },
